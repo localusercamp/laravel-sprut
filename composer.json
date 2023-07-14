@@ -1,0 +1,11 @@
+{
+    "name": "localusercamp/laravel-sprut",
+    "description": "Laravel package for logging eloquent models",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Localusercamp\\LaravelSprut\\": "src/"
+        }
+    },
+    "require": {}
+}
